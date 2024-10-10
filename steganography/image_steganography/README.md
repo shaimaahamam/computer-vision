@@ -29,6 +29,7 @@ This project demonstrates how to embed one image within another using the Least 
 
 steganography/
     image_steganography/
+    
     │
     ├── images
     │   ├── cover_image.jpg          # The image used to hide the secret image
