@@ -28,6 +28,7 @@ This project demonstrates how to embed text within an image using the Least Sign
 
 steganography/
     text_steganography/
+    
     │
     ├── images
     │   ├── cover_image.jpg          # The image used to hide the secret text
